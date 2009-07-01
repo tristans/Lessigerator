@@ -53,3 +53,5 @@ Things I'd like to do:
 30.6.2009	Setting up lessigerator.com and waiting for DNS.
 		Added "return this;" to Slide.addArg preparing for Slide.clone
 		(I've other/real work to do most of today) 
+
+1.7.2009	Added Util.link to allow linking within presentations
